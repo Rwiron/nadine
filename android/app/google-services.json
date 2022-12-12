@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394831380451",
+    "project_id": "cell-e1ba1",
+    "storage_bucket": "cell-e1ba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394831380451:android:8296f8dfefe707ea10aad6",
+        "android_client_info": {
+          "package_name": "com.example.cell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394831380451-pdnbr4mis2mqcub70j2r2oapl1rs5fee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwXni4d8cnvUpcr3Ui6k2q3Cr8Oigzy9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394831380451-pdnbr4mis2mqcub70j2r2oapl1rs5fee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
